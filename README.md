@@ -1,4 +1,6 @@
 # marcin119a.github.io
 
 TODO
-Prepare CV
+- [ ] Prepare CV
+- [x] PGP KEY
+
